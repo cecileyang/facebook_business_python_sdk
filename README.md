@@ -50,36 +50,13 @@ to get an access token.
 
 ## Install package
 
-The easiest way to install the SDK is via ``pip`` in your shell.
-
-**NOTE**: For Python 3, use ``pip3`` and ``python3`` instead.
-
-**NOTE**: Use ``sudo`` if any of these complain about permissions. (This might
-happen if you are using a system installed Python.)
-
-If you don't have pip:
-
-```
-easy_install pip
-```
-
-Now execute when you have pip:
-
-```
-pip install facebook_business
-```
-
-If you care for the latest version instead of a possibly outdated version in the
-<a href="https://pypi.python.org" target="_blank">pypi.python.org</a> repository,
-<a href="https://github.com/facebook/facebook-python-business-sdk">check out the
-repository from GitHub or download a release tarball</a>. Once you've got the
-package downloaded and unzipped, install it:
+Pull/download this package, and run:
 
 ```
 python setup.py install
 ```
 
-Great, now you are ready to use the SDK!
+Great, now you are ready to use the SDK v15!
 
 ## Bootstrapping
 
